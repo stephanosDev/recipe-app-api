@@ -1,2 +1,2 @@
 # recipe-app-api
-Recipe API project in Python
+Recipe API project in Python.
